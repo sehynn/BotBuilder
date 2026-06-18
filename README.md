@@ -11,3 +11,11 @@
 <img width="598" height="790" alt="Image" src="https://github.com/user-attachments/assets/d8e2ebbf-e2d4-4f4e-9e5f-e51b4cb5d5d5" />
 
 </div>
+
+## Related Repository 
+
+<div align="center">
+ 
+[![Design System](https://github-readme-stats.vercel.app/api/pin/?username=sehynn&repo=design-system)](https://github.com/sehynn/design-system)
+
+</div>
